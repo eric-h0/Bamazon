@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node app similar is usage to Amazon.",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-h0/Bamazon.git"
+  },
+  "author": "Eric Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-h0/Bamazon/issues"
+  },
+  "homepage": "https://github.com/eric-h0/Bamazon#readme"
+}
